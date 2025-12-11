@@ -1,12 +1,34 @@
-## Hi there 👋
+# 🧩 Eonys  
+**A collaborative platform shaped by clarity, simplicity, and modern engineering.**  
+*(Currently in development)*
 
-<!--
+Eonys is an ongoing project focused on creating a unified digital experience for modern teams.  
+Its purpose is to explore new ways of improving collaboration, organization, and productivity — with simplicity at the core.
 
-**Here are some ideas to get you started:**
+No feature list. No public roadmap.  
+Just continuous research, design, and experimentation.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 🧪 Development Philosophy
+
+> *Build. Break. Learn. Iterate.*  
+> Criar rápido, aprender rápido, evoluir sempre.
+
+Eonys evolves through exploration inside **JRFP Laboratory** and design principles shaped at **Evenesy Studio**.
+
+---
+
+## 🔗 Ecosystem
+
+- 🧪 **JRFP Laboratory:** https://jrfp.dev  
+- 🎨 **Evenesy Studio:** https://evenesy.com  
+- 👤 **JoãoRicardoFP:** https://joaoricardofp.com  
+
+---
+
+## 📬 Contact
+
+For general inquiries or early interest:
+
+**contact@eonys.com.br**
